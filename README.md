@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages欢迎来到azhenl
 
 You can use the [editor on GitHub](https://github.com/azhenl/azhenl.github/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +13,8 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### Header 3说明: 首先,你需要注册一个 github 账号,最好取一个有意义的名字,比如姓名全拼,昵称全拼,如果被占用,可以加上有意义的数字.
+本文中假设用户名为 tiemaocsdn
 
 - Bulleted
 - List
