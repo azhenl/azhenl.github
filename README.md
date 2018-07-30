@@ -23,7 +23,18 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+<div class="bottom-box"></div>
+		<div class="bottom w">
+			<p><a href="#">关于我们</a>&nbsp | &nbsp<a href="#">联系我们</a>&nbsp | &nbsp<a href="#">服务条款</a>&nbsp|&nbsp<a href="#">版权声明</a>&nbsp|&nbsp<a href="#">上传作品注意事项</a>&nbsp|&nbsp<a href="#">合作伙伴&nbsp | &nbsp<a href="#">会员注册</a>&nbsp|&nbsp</a><a href="#">帮助中心</a></p>
+			<p>Copyright (C) 2016 www.zhihui.com  All Rights Reserved  信阳林志高科技发展有限公司   版权所有     未经许可不得擅自转载本站内容</p>
+			<p>北京市公安局备案号码：11122233344455   京ICP证010666号　京ICP备09030667号-5　 新出网许（京）字055号　京网文【2016】0817-517号</p>
+			<p>本站所有的文章、图片、评论等，均由网友发表或上传并维护或收集自网络，属个人行为，与智慧小说网立场无关。</p>
+			<div class="bottom-image">
+				<img src="img/kexin2.png" alt="" />
+				<img src="img/kexin1.png" alt="" />
+				<img src="img/kexin3.png" alt="" />
+			</div>
+		</div>
 [Link](url) and ![Image](src)
 ```
 
